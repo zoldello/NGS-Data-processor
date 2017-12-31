@@ -64,7 +64,6 @@ I used numpy's array to handle hold the next generation sequence data. It is muc
 
 Credits
 ---------
-Philip Adenekan wrote this code and received no assistance other than from Machiej who explained coverage.
 
 This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
 
@@ -73,4 +72,4 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 
 Licence
 --------
-Harvard University staff  may use this as they see fit to critique the author. 
+MIT
